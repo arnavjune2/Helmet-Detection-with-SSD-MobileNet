@@ -1,0 +1,2 @@
+# Helmet-Detection-with-SSD-MobileNet
+Traffic Rule Violation is very common nowadays. Many riders as well as the passengers barely wear helmet while riding two wheelers. It is increasing day by day there are some problems happening like evaluation of traffic rules like not wearing helmet while driving or riding in the streets &amp; as a result, many serious accidents happen very often and many more.   So here we are doing an AI application which will detect the helmets and this AI can be applied in all sorts of the problem discussed above.
